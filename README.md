@@ -1,2 +1,2 @@
 # AC1_MVP
-Projeto criado para Atividade contínua da matéria Frameworks Ful Stack
+Projeto criado para Atividade contínua da matéria Frameworks Full Stack
